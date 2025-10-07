@@ -1,0 +1,19 @@
+# Dependencies
+/node_modules
+
+# Environment variables - VERY IMPORTANT
+.env
+
+# Production build folder
+/dist
+/build
+
+# Log files
+*.log
+npm-debug.log*
+
+# Editor directories and files
+.vscode
+.idea
+# Ignore environment variables file
+.env
